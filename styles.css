@@ -174,13 +174,13 @@
     cursor: pointer;
   }
   
-  .post > .actions > svg > path {
+   .post > .actions > svg > path {
     pointer-events: none;
   }
   
   .post > .actions > .like-btn:not(.active) > path:last-child {
     display: none;
-  }
+  } 
   
   .post > .actions > svg:last-child {
     margin-left: auto;
